@@ -1,7 +1,5 @@
 ### Hi there, I'm Buğra - aka [BQRDEV][youtube]👋
 
-[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/BQRDEV)
-
 ---
 
 ### Spotify Playing 🎧
