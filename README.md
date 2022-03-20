@@ -1,4 +1,4 @@
-### Hi there, I'm Buğra - aka [BQRDEV][youtube]👋
+### Hi there, I'm Buğra - aka Buğra👋
 
 ---
 
@@ -40,5 +40,3 @@
    <img align="right" alt="cankcygt's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bqrayvzdgn&show_icons=true&theme=gotham&locale=en&layout=compact"/>
 
 </details>
-
-[youtube]: https://www.youtube.com/channel/UCFbT9_SoxYM27udgg29fqQg
