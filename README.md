@@ -2,12 +2,6 @@
 
 ---
 
-### Spotify Playing 🎧
-
-[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="Buğra Spotify Playing" width="350" />](https://open.spotify.com/user/l3pwdm3nr3saxend8z70asvin?si=dcc2cbdc93c04a42)
-
----
-
 ### Languages and Tools
 
 <img align="left" alt="HTML5" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
