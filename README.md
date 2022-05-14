@@ -4,13 +4,17 @@
 
 ### Languages and Tools
 
-<img align="left" alt="HTML5" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<p align="left">
+  <a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"></a>
+  <a href="https://www.css.org"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40px" height="40px"></a>
+  <a href=""> <img src="https://img.icons8.com/color/50/000000/c-programming.png" width="40px" height="40px"></a> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://visualstudio.microsoft.com/tr/"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="40px" height="40px"></a>
+  <a href="https://code.visualstudio.com"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40px" height="40px"></a>
+  <a href="https://www.linux.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40px" height="40px"></a>
+</p>
 
-<img align="left" alt="CSS3" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Javascript" width="42px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/javascript/javascript.png" />
-
-<img align="left" alt="Csharp" width="42px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/csharp/csharp.png" />
+---
 
 <br />
 <br />
@@ -18,10 +22,7 @@
 ---
 
 <details>
-
   <summary>⚡Github Stats</summary><br/>
    <p align="left"><img width="350" src="https://github-readme-stats.vercel.app/api?username=Bqrayvzdgn&show_icons=true&theme=codeSTACKr"/>
-  
    <img align="left"  alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bqrayvzdgn&show_icons=true&theme=gotham&locale=en&layout=compact"/>
-
 </details>
