@@ -5,7 +5,7 @@
 ### Languages and Tools
 
 <p align="left">
-  <a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="52px" width="52px"></a>
+  <a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="51px" width="51px"></a>
   <a href="https://www.css.org"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40px" height="40px"></a>
   <a href=""> <img src="https://img.icons8.com/color/50/000000/c-programming.png" width="40px" height="40px"></a> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
