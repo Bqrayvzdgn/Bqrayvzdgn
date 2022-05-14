@@ -1,4 +1,4 @@
-### Hi there, I'm Buğra - aka Bqrayvzdgn👋
+### Hi there, I'm Buğra - aka Bqrayvzdgn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ---
 
