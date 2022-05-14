@@ -19,8 +19,6 @@
 <br />
 <br />
 
----
-
 <details>
   <summary>⚡Github Stats</summary><br/>
    <p align="left"><img width="350" src="https://github-readme-stats.vercel.app/api?username=Bqrayvzdgn&show_icons=true&theme=codeSTACKr"/>
