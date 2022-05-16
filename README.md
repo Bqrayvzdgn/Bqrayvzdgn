@@ -15,9 +15,3 @@
 </p>
 
 ---
-
-<details>
-  <summary>⚡Github Stats</summary><br/>
-   <p align="left"><img width="350" src="https://github-readme-stats.vercel.app/api?username=Bqrayvzdgn&show_icons=true&theme=codeSTACKr"/>
-   <img align="left"  alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bqrayvzdgn&show_icons=true&theme=gotham&locale=en&layout=compact"/>
-</details>
