@@ -8,7 +8,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50px" width="50px">
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40px" height="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/50/000000/c-programming.png" width="40px" height="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40px" width="40px">
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="40px" height="40px">
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40px" height="40px">
